@@ -38,3 +38,19 @@ EXPAND adds a scientific row: `% ^ SQRT 00`
 - `SQRT` is a prefix (`SQRT16` = 4).
 - `(` and `SQRT` insert a missing `*` after a digit, `)` or `%`.
 - The expression survives the EXPAND/COLLAPSE toggle and rotation.
+
+## License
+
+Calu - a minimal offline calculator for Android
+Copyright (C) 2026 sumon317
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License version 3 as
+published by the Free Software Foundation.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+Full license text: [LICENSE](LICENSE) (SPDX: GPL-3.0-only)
